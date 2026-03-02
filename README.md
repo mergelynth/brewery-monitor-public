@@ -121,7 +121,7 @@ All sensitive components are stored separately in private repositories.
 
 ## 📄 License
 
-MIT License
+Proprietary software. All rights reserved. No use without permission.
 
 ---
 
