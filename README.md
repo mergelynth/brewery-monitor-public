@@ -75,9 +75,9 @@ in a modern Progressive Web App.
 ## 🌐 Internationalization
 
 The interface supports multiple languages:
-- 🇬🇧 English  
-- 🇺🇦 Ukrainian  
-- 🇷🇺 Russian  
+- en  
+- uk  
+- ru 
 
 Language selection is automatic and can be adjusted by the user.
 
