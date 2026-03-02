@@ -89,13 +89,13 @@ Language selection is automatic and can be adjusted by the user.
 ![Main Dashboard](screens/main.png)
 
 ### Management Panel
-![Management Panel](screens/management.png)
+![Management Panel](screens/management-new.png)
 
 ### Planning Rules
 ![Planning Rules](screens/planning.png)
 
 ### Notifications Overview
-![Notifications Overview](screens/notifications.png)
+![Notifications Overview](screens/notifications-new.png)
 
 ### Graph and Analytics
 ![Graphs & Analytics](screens/graphs.png)
